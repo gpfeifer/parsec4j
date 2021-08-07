@@ -1,2 +1,2 @@
-# parse4j
+# parsec4j
 A simple implementation of 'Parser Combinators' in Java
